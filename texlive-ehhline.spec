@@ -1,6 +1,6 @@
 Name:		texlive-ehhline
 Version:	54676
-Release:	1
+Release:	2
 Summary:	Extend the \hhline command
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ehhline
