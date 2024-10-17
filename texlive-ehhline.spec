@@ -3,7 +3,7 @@ Version:	54676
 Release:	2
 Summary:	Extend the \hhline command
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ehhline
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ehhline
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ehhline.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ehhline.doc.r%{version}.tar.xz
